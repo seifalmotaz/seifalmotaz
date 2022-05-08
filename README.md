@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seif, a student in high school and programmer. I have been learning progrommaning for 5 years. I am full stack mobile developer. My current stack is __Dart__, __Flutter__ and __Python__. I have some good experiance with __Dart__ and __Flutter__.
+I'm Seif, a student in high school and a programmer. I have been learning to program for 5 years. I am a full-stack mobile developer. My current stack is __Dart__, __Flutter__ and __Python__. I have some good experience with __Dart__ and __Flutter__, and I have no work experience.
 
-I am the creator of __cruky__, a server side library to open the way for __Dart__ on the servers.
+I am the creator of __cruky__, a server-side library to open the way for __Dart__ on the servers.
 
 <div>
   <a href="https://github.com/jonataslaw">
