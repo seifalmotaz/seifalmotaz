@@ -26,5 +26,7 @@ I am the creator of __cruky__, a server side library to open the way for __Dart_
 
 External links:
 - seifelmotaz@outlook.com
-- (LinkedIn)[https://www.linkedin.com/in/seif-almotaz-936221225/]
-- (HakerRank)[https://www.hackerrank.com/seifelmotaz]
+- [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
+- [HakerRank](https://www.hackerrank.com/seifelmotaz)
+- [Twitter](https://twitter.com/AlmotazSeif)
+- [GitHub gists](https://gist.github.com/seifalmotaz)
