@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seif, a student in high school and programmer. I have been learning progrommaning sense 5. I am full stack mobile developer. My current stack is __Dart__, __Flutter__ and __Python__. I have some good experiance with __Dart__ and __Flutter__.
+I'm Seif, a student in high school and programmer. I have been learning progrommaning for 5 years. I am full stack mobile developer. My current stack is __Dart__, __Flutter__ and __Python__. I have some good experiance with __Dart__ and __Flutter__.
 
 I am the creator of __cruky__, a server side library to open the way for __Dart__ on the servers.
 
