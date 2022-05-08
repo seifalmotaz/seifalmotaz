@@ -19,8 +19,8 @@ I am the creator of [__cruky__](https://seifalmotaz.github.io/cruky/), a server-
 
 <div>
   <a href="https://github.com/jonataslaw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifalmotaz&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifalmotaz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifalmotaz&count_private=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifalmotaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
