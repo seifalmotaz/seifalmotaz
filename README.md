@@ -28,6 +28,7 @@ I am the creator of [__cruky__](https://seifalmotaz.github.io/cruky/), a server-
 External links:
 
 - seifalmotaz@protonmail.com
+- [VsS Code extentions](https://marketplace.visualstudio.com/publishers/SeifAlmotaz)
 - [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
 - [HackerRank](https://www.hackerrank.com/seifelmotaz)
 - [Twitter](https://twitter.com/AlmotazSeif)
