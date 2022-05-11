@@ -29,6 +29,6 @@ External links:
 
 - seifelmotaz@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
-- [HakerRank](https://www.hackerrank.com/seifelmotaz)
+- [HackerRank](https://www.hackerrank.com/seifelmotaz)
 - [Twitter](https://twitter.com/AlmotazSeif)
 - [GitHub gists](https://gist.github.com/seifalmotaz)
