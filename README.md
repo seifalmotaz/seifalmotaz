@@ -27,8 +27,9 @@ I'm Seif, a student in high school and a programmer. I have been learning to pro
 
 External links:
 
-- [VS Code extentions](https://marketplace.visualstudio.com/publishers/SeifAlmotaz)
-- [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
-- [HackerRank](https://www.hackerrank.com/seifelmotaz)
 - [Twitter](https://twitter.com/AlmotazSeif)
+- [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
 - [GitHub gists](https://gist.github.com/seifalmotaz)
+- [Dev.to](https://dev.to/seifalmotaz)
+- [HackerRank](https://www.hackerrank.com/seifelmotaz)
+- [VS Code extentions](https://marketplace.visualstudio.com/publishers/SeifAlmotaz)
