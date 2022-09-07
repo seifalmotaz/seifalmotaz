@@ -29,7 +29,7 @@ External links:
 
 - [Twitter](https://twitter.com/AlmotazSeif)
 - [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
-- [GitHub gists](https://gist.github.com/seifalmotaz)
 - [Dev.to](https://dev.to/seifalmotaz)
+- [GitHub gists](https://gist.github.com/seifalmotaz)
 - [HackerRank](https://www.hackerrank.com/seifelmotaz)
 - [VS Code extentions](https://marketplace.visualstudio.com/publishers/SeifAlmotaz)
