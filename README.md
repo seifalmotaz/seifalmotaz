@@ -22,8 +22,8 @@ I'm Seif, a student in high school and a programmer. I have been learning to pro
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifalmotaz&count_private=true&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifalmotaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
-  <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a>
 </div>
+  <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a>
 
 
 External links:
