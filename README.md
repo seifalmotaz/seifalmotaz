@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Seif, a student in high school and a programmer. I have been learning to program since 2017 years. I am a full-stack mobile developer. My current stack is __Dart__, __Flutter__ and __Python__. I have some good experience with __Dart__ and __Flutter__, and I have no work experience.
+My name is Seif, A full-stack mobile developer with 1+ year of Flutter/Dart experience. I'm currently a university student with a strong passion for programming, and I'm eager to use my skills to build innovative and user-friendly mobile applications. My tech stack includes Dart, Flutter, Python, and side experience in Golang gained through my job, and I have experience in developing both native and cross-platform mobile applications. I'm also a quick learner and I'm always looking for new challenges.
 
 <!--- I am the creator of [__croky__](https://seifalmotaz.github.io/croky/), a server-side library to open the way for __Dart__ on the servers. --->
 
@@ -23,7 +23,7 @@ I'm Seif, a student in high school and a programmer. I have been learning to pro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifalmotaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-  <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a>
+<!--   <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a> -->
 
 
 External links:
