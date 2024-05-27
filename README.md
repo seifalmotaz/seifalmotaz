@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Seif, A full-stack mobile developer with 1+ year of Flutter/Dart experience. I'm currently a university student with a strong passion for programming, and I'm eager to use my skills to build innovative and user-friendly mobile applications. My tech stack includes Dart, Flutter, Python, and side experience in Golang gained through my job, and I have experience in developing both native and cross-platform mobile applications. I'm also a quick learner and I'm always looking for new challenges.
+My name is Seif, A full-stack mobile developer with 2+ year of Flutter/Dart experience. I'm currently a university student with a strong passion for programming, and I'm eager to use my skills to build innovative and user-friendly mobile applications. My tech stack includes Dart, Flutter, Python, and side experience in Golang gained through my job, and I have experience in developing both native and cross-platform mobile applications. I'm also a quick learner and I'm always looking for new challenges.
 
 <!--- I am the creator of [__croky__](https://seifalmotaz.github.io/croky/), a server-side library to open the way for __Dart__ on the servers. --->
 
