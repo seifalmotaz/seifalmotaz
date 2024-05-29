@@ -13,21 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Seif, A full-stack mobile developer with 2+ year of Flutter/Dart experience. I'm currently a university student with a strong passion for programming, and I'm eager to use my skills to build innovative and user-friendly mobile applications. My tech stack includes Dart, Flutter, Python, and side experience in Golang gained through my job, and I have experience in developing both native and cross-platform mobile applications. I'm also a quick learner and I'm always looking for new challenges.
+Experienced Software Developer with 3 years of professional experience in developing and deploying web, mobile, and desktop applications. Specializing in Flutter/Dart, I excel in creating intuitive and visually appealing user interfaces and have a strong foundation in UI/UX design. My technical skills extend to backend development, where I utilize Python, SQL, and FastAPI to build robust systems. I have successfully contributed to projects like NAAB.app, RemoteOS.io, and LACTIVITY, collaborating with cross-functional teams to deliver high-quality, scalable software solutions. Passionate about continuous learning and staying current with industry trends, I am eager to leverage my comprehensive skill set to drive innovation in dynamic and collaborative environments.
 
 <!--- I am the creator of [__croky__](https://seifalmotaz.github.io/croky/), a server-side library to open the way for __Dart__ on the servers. --->
-
+<!--
 <div>
   <a href="https://github.com/seifalmotaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seifalmotaz&count_private=true&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifalmotaz&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-<!--   <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a> -->
+   <a href="https://app.daily.dev/seifalmotaz"><img src="https://api.daily.dev/devcards/d48e43b68fb94658806cf0489190836b.png?r=xnq" width="400" alt="Seif Almotaz's Dev Card"/></a> -->
 
 
 External links:
 
+- [CV](https://github.com/seifalmotaz/seifalmotaz/blob/main/Seif%20Almotaz%20CV.pdf)
 - [Twitter](https://twitter.com/AlmotazSeif)
 - [LinkedIn](https://www.linkedin.com/in/seif-almotaz-936221225/)
 - [Dev.to](https://dev.to/seifalmotaz)
