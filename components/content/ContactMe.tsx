@@ -35,11 +35,16 @@ const ContactMe = () => {
 
         <div className="w-full flex justify-center items-center flex-col">
           <form
-            name="contact"
+            action="https://api.web3forms.com/submit"
             method="POST"
             className="w-full space-y-4"
-            data-netlify="true"
           >
+            <input
+              type="hidden"
+              name="access_key"
+              value="916dcbd5-a54c-4290-8b93-0551b00ed5db"
+            />
+
             <div>
               <label className="sr-only" htmlFor="name">
                 Name
