@@ -35,9 +35,10 @@ const ContactMe = () => {
 
         <div className="w-full flex justify-center items-center flex-col">
           <form
-            action="https://formspree.io/f/xdorkorr"
+            name="contact"
             method="POST"
             className="w-full space-y-4"
+            data-netlify="true"
           >
             <div>
               <label className="sr-only" htmlFor="name">
