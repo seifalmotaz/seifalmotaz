@@ -6,6 +6,7 @@ import CurrentTimeLineExp, {
   calculateDuration
 } from '../content/CurrentTimeLineExp';
 import FavProjects from '../content/FavProjects';
+import GithubProjects from '../content/GithubProjects';
 import VideoGallery from '../content/VideoGallery';
 import Hero from '../content/Hero';
 import AnimationContainer from '../utils/AnimationContainer';
@@ -27,6 +28,8 @@ const HomeSection = () => {
         <CurrentTimeLineExp />
 
         <FavProjects />
+
+        <GithubProjects />
 
         <VideoGallery />
 
