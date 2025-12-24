@@ -40,6 +40,14 @@ const allProjectsInfo = [
   },
   {
     id: '5',
+    title: 'Not Helpful AI',
+    des: 'The AI that refuses to help you succeed. Prepare for brutal honesty and deliberate unhelpfulness.',
+    category: 'web app - ai',
+    repo: 'https://ai.tagerplus.com/',
+    link: 'https://ai.tagerplus.com/'
+  },
+  {
+    id: '6',
     title: 'Project Demo 1',
     des: 'Video demonstration of a project showing core functionalities and user interface.',
     category: 'video demo',
@@ -47,7 +55,7 @@ const allProjectsInfo = [
     link: '/project_demo_1.mp4'
   },
   {
-    id: '6',
+    id: '7',
     title: 'Project Demo 2',
     des: 'Video demonstration of a project showing core functionalities and user interface.',
     category: 'video demo',

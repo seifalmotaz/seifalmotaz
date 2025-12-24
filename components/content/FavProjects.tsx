@@ -30,6 +30,13 @@ const favProjects = [
     category: 'Mobile App - Android',
     repo: 'https://play.google.com/store/apps/details?id=com.tagerplus.com&hl=en-US',
     link: 'https://play.google.com/store/apps/details?id=com.tagerplus.com&hl=en-US'
+  },
+  {
+    title: 'Not Helpful AI',
+    des: 'The AI that refuses to help you succeed. Prepare for brutal honesty and deliberate unhelpfulness.',
+    category: 'Web App - AI',
+    repo: 'https://ai.tagerplus.com/',
+    link: 'https://ai.tagerplus.com/'
   }
 ];
 
