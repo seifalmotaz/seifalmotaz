@@ -6,6 +6,7 @@ import CurrentTimeLineExp, {
   calculateDuration
 } from '../content/CurrentTimeLineExp';
 import FavProjects from '../content/FavProjects';
+import VideoGallery from '../content/VideoGallery';
 import Hero from '../content/Hero';
 import AnimationContainer from '../utils/AnimationContainer';
 import { skills } from '../utils/mySkills';
@@ -25,7 +26,9 @@ const HomeSection = () => {
 
         <CurrentTimeLineExp />
 
-        {/* <FavProjects /> */}
+        <FavProjects />
+
+        <VideoGallery />
 
         <AnimationContainer customClassName="w-full flex flex-col gap-5 mb-8">
           <h2 className="font-bold text-2xl md:text-2xl tracking-tight mb-2 text-white text-start">

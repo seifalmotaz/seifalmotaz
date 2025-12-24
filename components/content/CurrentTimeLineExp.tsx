@@ -51,7 +51,7 @@ const CurrentTimeLineExp = () => {
       <TimelineEvent active>
         <TimelineEvent.Title>
           <a
-            href="https://www.payrows.com"
+            href="https://www.linkedin.com/company/equipment-simulations-llc/posts/?feedView=all"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white hover:underline transition-all ease"
@@ -76,7 +76,7 @@ const CurrentTimeLineExp = () => {
       <TimelineEvent last>
         <TimelineEvent.Title>
           <a
-            href="https://www.codratech.com/"
+            href="https://www.linkedin.com/company/codra-tech/posts/?feedView=all"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white hover:underline transition-all ease"
