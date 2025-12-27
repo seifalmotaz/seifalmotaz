@@ -61,6 +61,14 @@ const allProjectsInfo = [
     category: 'video demo',
     repo: 'https://github.com/seifalmotaz',
     link: '/project_demo_2.mp4'
+  },
+  {
+    id: '8',
+    title: 'Beeko3d',
+    des: 'Your One-Stop Solution for Logistics, Delivery, Fulfillment, Printing, and Marketing.',
+    category: 'web development',
+    repo: 'https://beekoo3d.web.app',
+    link: 'https://beekoo3d.web.app'
   }
 ];
 

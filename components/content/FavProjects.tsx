@@ -37,6 +37,13 @@ const favProjects = [
     category: 'Web App - AI',
     repo: 'https://ai.tagerplus.com/',
     link: 'https://ai.tagerplus.com/'
+  },
+  {
+    title: 'Beeko3d',
+    des: 'Your One-Stop Solution for Logistics, Delivery, Fulfillment, Printing, and Marketing.',
+    category: 'Web Development',
+    repo: 'https://beekoo3d.web.app',
+    link: 'https://beekoo3d.web.app'
   }
 ];
 
